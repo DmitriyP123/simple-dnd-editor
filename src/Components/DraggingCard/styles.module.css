@@ -1,0 +1,8 @@
+.dragCard {
+  border: 1px dashed gray;
+  background-color: aquamarine;
+  padding: 0.5rem 1rem;
+  margin: 15px;
+  text-align: center;
+  cursor: move;
+}
